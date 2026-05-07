@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/javascript-ES6+-1C2024?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/HTML-HTML5+-1C2024?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/css-css3+-1C2024?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)
-![Static Badge](https://img.shields.io/badge/tailwind-4+-1C2024?style=for-the-badge&logo=tailwind&logoColor=white&labelColor=101010)
+![Static Badge](https://img.shields.io/badge/tailwind-4+-1C2024?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)
 
 Est sint ad aliquip minim. Est do sint labore incididunt dolore fugiat id exercitation laborum. Tempor culpa aute officia id velit ipsum eu exercitation deserunt. Ipsum amet sunt ipsum sint. Incididunt et officia occaecat aliquip. Reprehenderit velit Lorem ipsum anim tempor adipisicing commodo labore reprehenderit tempor laboris.
 
